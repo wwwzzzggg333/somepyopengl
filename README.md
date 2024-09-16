@@ -1,2 +1,5 @@
-# somepyopengl
-somepyopengl wheel旧版本
+# pyopengl 64位版本
+
+较新的版本
+https://github.com/Ultravioletrayss/OpenGLfile
+
